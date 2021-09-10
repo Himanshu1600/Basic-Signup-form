@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Basic-Signup-form/static/css/main.02513958.chunk.css",
+    "main.js": "/Basic-Signup-form/static/js/main.ae4862f9.chunk.js",
+    "main.js.map": "/Basic-Signup-form/static/js/main.ae4862f9.chunk.js.map",
+    "runtime-main.js": "/Basic-Signup-form/static/js/runtime-main.7255926f.js",
+    "runtime-main.js.map": "/Basic-Signup-form/static/js/runtime-main.7255926f.js.map",
+    "static/css/2.f2512455.chunk.css": "/Basic-Signup-form/static/css/2.f2512455.chunk.css",
+    "static/js/2.1744a03d.chunk.js": "/Basic-Signup-form/static/js/2.1744a03d.chunk.js",
+    "static/js/2.1744a03d.chunk.js.map": "/Basic-Signup-form/static/js/2.1744a03d.chunk.js.map",
+    "index.html": "/Basic-Signup-form/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Basic-Signup-form/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.02513958.chunk.css.map": "/Basic-Signup-form/static/css/main.02513958.chunk.css.map",
+    "static/js/2.1744a03d.chunk.js.LICENSE.txt": "/Basic-Signup-form/static/js/2.1744a03d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7255926f.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.1744a03d.chunk.js",
+    "static/css/main.02513958.chunk.css",
+    "static/js/main.ae4862f9.chunk.js"
+  ]
+}
