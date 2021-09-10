@@ -1,0 +1,14 @@
+.google-logo {
+  background-color: white;
+  padding: 4px;
+  border-radius: 50%;
+}
+.facebook-logo {
+  background-color: white;
+  padding: 4px;
+  border-radius: 50%;
+  /* filter: invert(100%); */
+}
+.errormessage {
+  color: red;
+}
